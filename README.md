@@ -15,3 +15,11 @@ Conceitos:
 6. Estilizando textos: font-family, font-size, font-style, font-weight, font-transform, text-decoration.
 7. Estilizando listas: list-style-type (square | upper-roman |"\1f44D"), list-style-image (url("rocket.png))
 8. Dimensão e Alinhamento: Width x Height (largura x altura), Max-width x Max-height (largua máxima e altura máxima), Margin (espaçament e alinhar elementos altomáticamente),Text-align (alinhar textos)
+
+Flexbox:
+
+- segurar o ctrl + shift + p >> buscar por Show Live Server Preview para visualizar em vez de utilizar o navegador.
+
+1. Display flex
+2. Flex Direction
+3. Flex Wrap
