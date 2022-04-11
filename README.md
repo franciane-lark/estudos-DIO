@@ -20,6 +20,9 @@ Flexbox:
 
 - segurar o ctrl + shift + p >> buscar por Show Live Server Preview para visualizar em vez de utilizar o navegador.
 
-1. Display flex
-2. Flex Direction
-3. Flex Wrap
+
+1. Flex Direction
+2. Flex Wrap
+3. Flex flow
+4. Justify Content
+5. Align items.
