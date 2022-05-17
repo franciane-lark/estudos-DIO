@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - align content</title>
+    <style>
+        .container {
+            height: 400px;
+            max-width: 300px;
+            margin:  0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            border: 1px solid black;
+        }
+        .item {
+            background-color: orangered;
+            padding:  0 5px;
+            margin: 5px;
+            flex: 1;
+            text-align: center;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <p>strectch</p>
+    <div class="container">
+        <div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</div>
+        <div class="item">Lorem ipsum dolor sit amet</div>
+        <div class="item">Lorem ipsum dolor sit amet, consectetur</div>
+        <div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero in delectus commodi id saepe.</div>
+        <div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit</div>
+        <div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit</div>
+        <div class="item">Lorem ipsum dolor sit amet, consectetur adipisicing elit</div>
+    </div>
+</body>
+</html>
